@@ -18,3 +18,5 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-di
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+I was able to understand the disk types which are basically standard [HDD] and premium {SDD} each of these has different series also 
+launched an azure cloud shell and attached the disk with size Standard_DS2_v and 128gb,prepared the data disk but i had issues with the disk snap shot
