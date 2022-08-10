@@ -23,3 +23,5 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html
 Quickstart for AWS CloudShell
 
 https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+
+I created an Instance and was able to connect to the Instance successfully,studied about images and i realised images are just like OS of physical Machines which Include amazon linux,Ubuntu,Red hat,Mac and others each of these has their personal specifications and there are differen Instant sizes ranging fro  t1.micro to z1d.metal each has various Capacity of vCPU,memory and pricing.I also understood different Instance power states which include start Instance,stop instance,reboot instance,hibernate instance and also terminate instance.i performed all of these activities management tasks
