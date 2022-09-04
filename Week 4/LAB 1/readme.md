@@ -16,3 +16,5 @@ Grading tip:  Screenshot each step and upload with your step by step answer
 Guide:
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.html
 
+VPC created with the above specifications and an internet gatewway was also created an attached
+
