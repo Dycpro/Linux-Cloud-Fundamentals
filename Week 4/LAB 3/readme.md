@@ -9,5 +9,5 @@ Tasks:
 
 
 Guide: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
-
+Still trying to install my LAMP perfectly tried several times but couldnt connect,only my Apache was connected
 Grading tip:  Screenshot major script outputs and upload with your step by step answer
